@@ -806,6 +806,7 @@ With a rise of “no code tools”, everyone with a laptop can build and launch 
 - 🌎 [Carrd](carrd.co/) — simple, free, fully responsive one-page sites for pretty much anything. ![free.svg](https://github.com/correia-jpv/fucking-Awesome-Design-Tools/blob/master/Media/free.svg)
 - 🌎 [Coda](coda.io) — a new type of document that blends the flexibility of documents, the power of spreadsheets, and the utility of apps into a single new canvas. ![free.svg](https://github.com/correia-jpv/fucking-Awesome-Design-Tools/blob/master/Media/free.svg)
 - 🌎 [Kodika.io](kodika.io) — build iOS apps with Kodika no code app builder for Mac & iPad, capable of creating powerful apps with Drag & Drop. ![mac.svg](https://github.com/correia-jpv/fucking-Awesome-Design-Tools/blob/master/Media/mac.svg)
+- 🌎 [LandscapioAI](https://www.landscapioai.com/) — AI landscape design software that helps homeowners and designers generate outdoor design concepts from yard photos.
 - 🌎 [PageXL](pagexl.com/) — a simple one-page website builder for quickly creating landing pages and online stores. ![free.svg](https://github.com/correia-jpv/fucking-Awesome-Design-Tools/blob/master/Media/free.svg)
 - 🌎 [Remove.bg](www.remove.bg/) — a free service to remove the background of any photo. ![free.svg](https://github.com/correia-jpv/fucking-Awesome-Design-Tools/blob/master/Media/free.svg)
 - 🌎 [Retool](tryretool.com/) — gives you building blocks and you can build tools much faster.
